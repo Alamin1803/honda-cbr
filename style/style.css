@@ -1,1 +1,19 @@
-!
+/* utilities css */
+a{
+    text-decoration: none;
+}
+.navbar{
+    background-color: #264653;
+}
+.nav-link{
+    color: #ffffff;
+}
+.banner-section{
+    background-color: #264653;
+}
+.banner-Left p{
+    color: azure;
+}
+.feature-card{
+    border: none;
+}
